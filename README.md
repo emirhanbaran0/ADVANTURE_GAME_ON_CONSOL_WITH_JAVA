@@ -11,3 +11,4 @@ You have to  beat all of your enemies(Zombie,Vampire...) after that
 
 you have go to your safety house if you finish these steps you will finih the game.
 
+You can see my my UML Diagram in this link: https://imgyukle.com/i/EPedrs
