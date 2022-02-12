@@ -1,5 +1,5 @@
 # ADVANTURE_GAME_ON_CONSOL_WITH_JAVA
- if you have any suggestion or question here is my Lınkledn adress: https://www.linkedin.com/in/emirhan-baran-aa0a11222/ 
+ If you have any suggestion or question here is my Lınkledn adress: https://www.linkedin.com/in/emirhan-baran-aa0a11222/ 
  
 My AdVanture Game
 In this project you will see my game.I wrote this game with JAVA(OOP) language.
